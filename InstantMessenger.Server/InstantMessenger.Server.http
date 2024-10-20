@@ -1,0 +1,6 @@
+@InstantMessenger.Server_HostAddress = http://localhost:5098
+
+GET {{InstantMessenger.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

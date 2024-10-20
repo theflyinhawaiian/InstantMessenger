@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantMessenger.Server", "InstantMessenger.Server\InstantMessenger.Server.csproj", "{D122A537-AC38-4939-B404-36BE3C1783BC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "instantmessenger.client", "instantmessenger.client\instantmessenger.client.esproj", "{46EBAC92-9E17-4293-BB37-009287584345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D122A537-AC38-4939-B404-36BE3C1783BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D122A537-AC38-4939-B404-36BE3C1783BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D122A537-AC38-4939-B404-36BE3C1783BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D122A537-AC38-4939-B404-36BE3C1783BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EBAC92-9E17-4293-BB37-009287584345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EBAC92-9E17-4293-BB37-009287584345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EBAC92-9E17-4293-BB37-009287584345}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{46EBAC92-9E17-4293-BB37-009287584345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EBAC92-9E17-4293-BB37-009287584345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EBAC92-9E17-4293-BB37-009287584345}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9DD958-1813-49BF-BC59-AA5E59817CD9}
+	EndGlobalSection
+EndGlobal
